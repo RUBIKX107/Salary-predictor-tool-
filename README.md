@@ -52,15 +52,6 @@ python -m http.server 8080
 
 ---
 
-## Deploy to GitHub Pages (Free Hosting)
-
-1. Push repo to GitHub
-2. Go to Settings → Pages
-3. Source: Deploy from branch → main → / (root)
-4. Live at: https://YOUR_USERNAME.github.io/salary-predictor
-
----
-
 ## How It Works
 
 1. Fill in: Role, Industry, Location, Experience, Education, Skills
